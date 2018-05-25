@@ -17,4 +17,5 @@ def assign_rooms(list)
   result.each_with_index{|i|,|index|
     result.push("Hello, #{i}! You'll be assigned to room #{index +1}!")
   }
-  
+  result
+end 
