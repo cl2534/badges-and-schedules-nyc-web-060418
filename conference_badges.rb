@@ -14,4 +14,5 @@ end
 
 def assign_rooms(list)
   result = Array.new
-  result.each_with_index{|i|,|index|}
+  result.each_with_index{|i|,|index|
+  
